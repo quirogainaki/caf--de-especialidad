@@ -15,3 +15,9 @@ header{
     background-color: aquamarine;
     height: 200px;
 }
+main{
+    background-color: blueviolet;
+}
+footer{
+    color: brown;
+}
